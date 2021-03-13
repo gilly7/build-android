@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917172054439",
+    "project_id": "send-it-366df",
+    "storage_bucket": "send-it-366df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917172054439:android:4f3b66191b37b671ddee82",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917172054439-n4d3n0l7svur279ov8oj0sif3en0gece.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK16iMo7AGPXm2hiuWg_Mfpz6Nk0YNFhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917172054439-n4d3n0l7svur279ov8oj0sif3en0gece.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
